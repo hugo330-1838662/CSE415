@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e2f9172-382b-4f0c-a3f5-6e28ad212d0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mlWzLJ4kntsw4cnVT2pRZLQqU5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_classes.TestA1Classes">
+    <configuration name="Unittests for test_classes.TestA1Classes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="a1_starter_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_classes.TestA1Classes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_functions.TestA1Functions" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="a1_starter_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_functions.TestA1Functions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_functions.TestA1Functions.test_is_multiple_of_9" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="a1_starter_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_functions.TestA1Functions.test_is_multiple_of_9&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_functions.TestA1Functions.test_next_prime" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="a1_starter_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_functions.TestA1Functions.test_next_prime&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_classes.TestA1Classes" />
+        <item itemvalue="Python tests.Unittests for test_functions.TestA1Functions" />
+        <item itemvalue="Python tests.Unittests for test_functions.TestA1Functions.test_next_prime" />
+        <item itemvalue="Python tests.Unittests for test_functions.TestA1Functions.test_is_multiple_of_9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2f9172-382b-4f0c-a3f5-6e28ad212d0c" name="Default Changelist" comment="" />
+      <created>1610068918705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610068918705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="248" key="GridCell.Tab.0.bottom" timestamp="1610265063436">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1610265063436" />
+    <state width="1345" height="248" key="GridCell.Tab.0.center" timestamp="1610265063435">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1610265063435" />
+    <state width="1345" height="248" key="GridCell.Tab.0.left" timestamp="1610265063435">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1610265063435" />
+    <state width="1345" height="248" key="GridCell.Tab.0.right" timestamp="1610265063436">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1610265063436" />
+    <state width="1345" height="248" key="GridCell.Tab.1.bottom" timestamp="1610265063437">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.bottom/0.23.1440.810@0.23.1440.810" timestamp="1610265063437" />
+    <state width="1345" height="248" key="GridCell.Tab.1.center" timestamp="1610265063437">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.center/0.23.1440.810@0.23.1440.810" timestamp="1610265063437" />
+    <state width="1345" height="248" key="GridCell.Tab.1.left" timestamp="1610265063437">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.left/0.23.1440.810@0.23.1440.810" timestamp="1610265063437" />
+    <state width="1345" height="248" key="GridCell.Tab.1.right" timestamp="1610265063437">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="1345" height="248" key="GridCell.Tab.1.right/0.23.1440.810@0.23.1440.810" timestamp="1610265063437" />
+    <state x="381" y="160" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610084817212">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="381" y="160" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.810@0.23.1440.810" timestamp="1610084817212" />
+  </component>
+</project>
